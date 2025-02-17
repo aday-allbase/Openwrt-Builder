@@ -1,0 +1,7 @@
+# Behavior: domain
+
+payload:
+- "+.grab.com"
+- "+.grabtaxi.com"
+- "+.grabpay.com"
+- "+.sinch.com"

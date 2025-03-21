@@ -22,4 +22,5 @@ adb ttyd luci-app-ttyd bash dmesg screen kmod-tun jq luci-lib-ipkg \
 ipset iptables iptables-legacy iptables-mod-iprange \
 iptables-mod-socket iptables-mod-tproxy kmod-ipt-nat coreutils coreutils-base64 \
 coreutils-nohup curl ip-full libuci-lua lua luci-compat luci-lib-jsonc \
-ca-certificates libcap libcap-bin kmod-inet-diag kmod-nft-tproxy luci-app-openclash
+ca-certificates libcap libcap-bin kmod-inet-diag kmod-nft-tproxy luci-app-openclash \
+luci-app-tinyfm
